@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## 
-Front-end developer based in Germany :de:
+:de: Front-end developer based in Germany 
 
-Currently learning React & Redux and Typescript. 
+🌱  Currently learning React & Redux and Typescript.
