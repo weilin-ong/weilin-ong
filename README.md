@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ## 
 :de: Frontend developer based in Germany 
 
-- 🌱  I'm currently learning React, Redux and Typescript.
+🌱  I'm currently learning React, Redux and Typescript.
 
 [![WeiLin's GitHub stats](https://github-readme-stats.vercel.app/api?username=weilin93&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
