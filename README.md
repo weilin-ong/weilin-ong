@@ -1,7 +1,7 @@
 ### Hi there! My name is WeiLin👋
 
 <!--
-**weilin93/weilin93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**weilin-ong/weilin-ong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
